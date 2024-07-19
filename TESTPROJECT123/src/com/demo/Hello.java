@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("hw r u");
 		System.out.println("good");
 		System.out.println("fine");
+		System.out.println("gzhgxjfdfj");
 	}
 
 }
