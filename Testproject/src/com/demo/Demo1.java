@@ -1,4 +1,4 @@
-
+package com.demo;
 public class Demo1 {
      int a=10;
      int b=20;
@@ -17,6 +17,7 @@ public class Demo1 {
 		Demo1 d1=new Demo1();
 		System.out.println(d1);
 		
+		System.out.println("new added");
 		
    // System.out.println(Demo1.add(10, 30,50));
 	}
